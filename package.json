@@ -1,0 +1,11 @@
+{
+  "name": "cinepolis2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "chimp": "^0.51.1"
+  }
+}
